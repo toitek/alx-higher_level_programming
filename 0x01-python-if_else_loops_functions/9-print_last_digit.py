@@ -1,7 +1,4 @@
 #!/usr/bin/python3
-from re import I
-
-
 def print_last_digit(number):
     if number >= 0:
         I_digit = number % 10
