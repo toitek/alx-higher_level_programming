@@ -1,4 +1,4 @@
-#!/bin/bash/python3
+#!/usr/bin/python3
 if __name__ == "__main__":
     import sys
 
@@ -17,7 +17,7 @@ if __name__ == "__main__":
     b = int(sys.argv[3])
 
     if op == '+':
-        print("{} + {}".format(a, b, add(a, b)))
+        print("{} + {} = {}".format(a, b, add(a, b)))
     if op == '-':
         print("{} - {} = {}".format(a, b, sub(a, b)))
     if op == '*':
