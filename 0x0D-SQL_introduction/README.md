@@ -1,0 +1,1 @@
+# SQL Introduction project at ALX SOFTWARE ENGEENIRING COURSE
